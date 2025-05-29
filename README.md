@@ -1,7 +1,30 @@
 ## Репозиторій створений для публікації та демонстрації техніки аналізу даних за допомогою інструментів Excel / Google Sheets
 
-## 1. Game analysis.
-1.Для аналізу датасету використано наступні формули та пораховано наступні метрики:
+## . Active users and activity
+1. Для аналізу використано наступні формули та техніки:
+- AVERAGE
+- ROUND
+- FORECAST
+- STDEV
+- MEDIAN
+- QUARTILE
+- PERCENTILE
+- ІNTERQUARTILE RANGE
+- WEEKDAY
+- VLOOKUP
+- DATE
+- MINIFS
+- DATEDIF
+- COUNTUNIQUE
+- COUNTUNIQUEIFS
+- AVERAGEIFS
+- PIVOT TABLE
+- COHORT ANALYSIS
+2. 
+
+
+## . Game analysis
+1. Для аналізу датасету використано наступні формули та пораховано наступні метрики:
 - SUMIF
 - COUNTIF
 - AVERAGEIF
