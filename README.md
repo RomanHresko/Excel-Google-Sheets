@@ -15,12 +15,21 @@
 - DATE
 - MINIFS
 - DATEDIF
+- SPLIT
 - COUNTUNIQUE
 - COUNTUNIQUEIFS
 - AVERAGEIFS
 - PIVOT TABLE
 - COHORT ANALYSIS
-2. 
+2. Пораховано DAU, WAU, Average DAU, зроблено прогнозування майбутнього періоду (для DAU, WAU, Average DAU) на основі історичних даних за допомогою FORECAST.
+3. Після обробки даних формулами, було здійснено когортний аналіз користувачів за допомогою зведених таблиць, зроблено зрізи для зручного фільтрування даних, створено дашборд для аналізу ключових показників.
+
+  Посилання на файл:
+  https://docs.google.com/spreadsheets/d/1yjOHYsoyG0ponWpRA-MQp8XGoKED8l9Saf-Fqh8GGro/edit?usp=sharing
+  ![image](https://github.com/user-attachments/assets/2d4cbe1c-7ac9-418e-8d5d-aa22924027a8)
+  ![image](https://github.com/user-attachments/assets/c6b3fca4-6d36-4d92-9202-e770b459e36b)
+
+  
 
 
 ## . Game analysis
